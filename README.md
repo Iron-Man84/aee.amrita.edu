@@ -1,3 +1,3 @@
-# internal-campfire-eu.amazon.in
+# aee.amrita.edu
 
 ## Subdomain Takeover by blackdevil_48
